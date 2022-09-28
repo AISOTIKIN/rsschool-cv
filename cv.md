@@ -1,7 +1,20 @@
-# 👋 Hi, I’m @AISOTIKIN
-# 👀 I’m interested in computer games
-# 🌱 I’m currently working in a factory
-# 💞️ I’m looking to collaborate on epam
+    <!doctype html>
+    <html>
+        <head>
+            <!-- Заголовок документа -->
+        </head>
+        <body>
+            <!-- Тело документа -->
+        </body>
+    </html>
+
+
+
+# 👋 Hi, I’m Nikita Sydykov
+#
+# 📫 tg: @dead10000 , +375291193622
+# 🌱 I’m worker
+# 💞️ Base skills
 # 📫 How to reach me (mail)
 
 
